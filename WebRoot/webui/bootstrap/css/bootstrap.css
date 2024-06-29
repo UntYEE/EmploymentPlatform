@@ -3189,9 +3189,13 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
+  background-color: #5EC7A0;
   border-color: #4cae4c;
+  margin-left:35% ; /* 设置上下边距为0，左右自动，使按钮水平居中 */
+  padding: 10px 30px; /* 设置上下内边距为10px，左右内边距为20px */
+  font-size: 15px;
 }
+
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;

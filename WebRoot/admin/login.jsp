@@ -119,7 +119,7 @@ body {
 					  ${errmsg}
 					</span>
 
-					<button class="btn btn-success btn-large fn-righ">登录</button>
+					<button class="btn btn-success btn-large">登录</button>
 
 				</div>
 				<div class="form-row">

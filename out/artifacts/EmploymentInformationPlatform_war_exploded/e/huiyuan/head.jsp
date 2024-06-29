@@ -99,9 +99,9 @@
 
     <div class="row-flow white-paper">
     <div class="wrap">
-        <div style="font-size: 28px; color:#04a219; font-weight: bold; width:400px; line-height:30px; font-family:tahoma, arial, Microsoft YaHei, Hiragino Sans GB; padding: 15px 10px;" class="fn-left">
-                              就业信息平台
-            
+        <div style="font-size: 36px; color:#1BC59A; font-weight: bold; width:400px; line-height:30px; font-family:STZhongsong; padding: 25px 10px;" class="fn-left">
+            就业信息平台
+
         </div>
         
     </div>
