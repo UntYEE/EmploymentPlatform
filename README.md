@@ -1,6 +1,5 @@
 ## 简介
 
-> 本代码来源于网络,仅供学习参考使用!
 > 
 > 用户端地址：http://localhost:8080/zhaopin/e/index.jsp
 > 
