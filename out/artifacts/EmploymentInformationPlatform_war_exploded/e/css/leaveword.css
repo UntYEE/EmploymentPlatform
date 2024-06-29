@@ -1,39 +1,37 @@
 
 
-.comment-container{
+.comment-container {
     position: relative;
     width: 100%;
-    background-color:#046b11;
-    height:120px;
+    background-color: #029289;
+    height: 120px;
     overflow: hidden;
-    border-radius: 12px 12px 12px 12px;
+    border-radius: 12px;
 }
-.inner-container
-{
-	
-    position: relative;
-    
-    padding: 30px 45px 20px;
 
+.inner-container {
+    position: relative;
+    padding: 30px 45px 20px;
 }
+
 .comment-message {
     position: absolute;
-    left: 215px;
-    top: 10px;
-    width: 498px;
-   
+    left: 16%;  /* 靠左对齐 */
+    top: 65%; /* 父容器高度的一半 */
+    width: 100%;  /* 增加宽度以填满容器 */
+    transform: translateY(-50%);  /* 垂直居中调整 */
     margin: 0;
-   
 }
+
 .comment-message textarea
 {
-	width: 494px;
+	width: 800px;
     border:0px;
     height: 50px;
     font-size:16px;
     font-weight:400px;
     color:#000;
-    font-family: "΢���ź�","microsoft yahei";
+    font-family: "΢���ź�","microsoft yahei";
 }
 .gray-color
 {
@@ -47,8 +45,8 @@
 {
 	width: 500px;
     position: absolute;
-    left:415px;
-    top: 80px;
+    left:500px;
+    top: 70px;
 }
 
 .comment-list{

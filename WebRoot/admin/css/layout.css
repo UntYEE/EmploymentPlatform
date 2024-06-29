@@ -39,7 +39,7 @@ img
 }
 .bgtop
 {
-	background:#139813;
+	background:#0E9BA4;
 	color: #FFFFFF;
 	cursor: pointer;
 	height: 42px;
@@ -74,8 +74,8 @@ dl.bitem2
 dl.current dt, dl.bitem2 dt
 {
 	/*background: url( "../images/dtbg.jpg" ) repeat-x 0 0;*/
-	background:#5cb85c;
-	border:1px solid #139813;
+	background:#5EC7A0;
+	border:1px solid #0E9BA4;
 	cursor: pointer;
 	height: 43px;
 	letter-spacing: 1px;
@@ -100,7 +100,7 @@ dl.current dt b, dl.bitem2 dt b
 }
 dl.current dd, dl.bitem2 dd
 {
-	background-color: #52b552;
+	background-color: #5EC7A0;
 	padding: 3px;
 }
 
@@ -134,7 +134,7 @@ div.items
 }
 .sitemu li.selected
 {
-	background: url( "../images/class.gif" ) no-repeat 15px 1px #0f8a11;
+	background: url( "../images/class.gif" ) no-repeat 15px 1px #0E9BA4;
 	line-height: 22px;
 	color:#fff;
 	font-weight:600;
@@ -192,12 +192,12 @@ ul
 
 .left
 {
-	border-right: 1px solid #B4B7BA;
+	border-right: 1px solid #5EC7A0;
 	left: 0;
 	position: absolute;
 	top: 66px;
 	width: 145px;
-    background:#4cae4c;
+    background:#5EC7A0;
 	height: 100%;
 	
 }
@@ -217,7 +217,7 @@ ul
 
 .head
 {
-	background: #5cb85c;
+	background: #5EC7A0;
 	height: 66px;
 	position: relative;
 	width: 100%;

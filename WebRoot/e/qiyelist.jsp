@@ -42,7 +42,7 @@
 </head>
 <body>
 	<jsp:include page="head.jsp"></jsp:include>
-	<div class="wrap round-block">
+	<div class="wrap qiyeround-block">
 		<div class="line-title">
 			当前位置：<a href="${pageContext.request.contextPath}/e/index.jsp">首页</a>
 			&gt;&gt; 企业信息查询

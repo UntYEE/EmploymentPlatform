@@ -15,7 +15,7 @@
 .page-main-box
 {
 	margin:0 auto;
-	width:1120px;
+	width:1160px;
 	background-color:White;
     
 }
@@ -1449,13 +1449,13 @@ DIV.digg
 	line-height:40px;
 	font-size:20px;
 	margin-bottom:20px;
-	margin-top:20px;
+	margin-top:0px;
 	color:#45b6f7;
 }
 .round-block
 {
 	background:#fff;
-	padding:50px 15px;
+	padding:20px 15px;
 	border-radius:2px;
 	margin-bottom:20px;
 	overflow:hidden;
@@ -1533,7 +1533,7 @@ DIV.digg
 }
 .show-details .picture-box .operation
 {
-	background-color:#000;
+	background-color:#f9f9fa;
 	height:105px;
 	margin-top:-2px;
 	border-bottom-right-radius:6px;
@@ -1641,7 +1641,7 @@ DIV.digg
 {
 	padding:12px 2px;
 	width:260px;
-	height:40px;
+	height:100px;
 	overflow:hidden;
     font-size: 18px;
     color: #ff9300;
@@ -1649,7 +1649,7 @@ DIV.digg
 
 
 .btn{
-   
+
     line-height: 36px;
     border-radius:2px;
     font-size: 20px;
@@ -1657,8 +1657,8 @@ DIV.digg
 }
 
 .btn-default{
-    
-   
+
+
     background-color: #188eee;
     color: #fff;
     display: inline-block;
@@ -1670,10 +1670,10 @@ DIV.digg
     border: 0;
     user-select: none;
     padding:2px 22px;
-    
+
 }
 .button{
-	
+
 	line-height: 36px;
     border-radius:2px;
     font-size: 20px;
@@ -1688,7 +1688,7 @@ DIV.digg
     border-radius: 2px;
     border: 0;
     user-select: none;
-    padding:2px 22px;
+    padding:10px 30px;
 }
 
 
@@ -1706,11 +1706,19 @@ DIV.digg
 .round-block
 {
 	background:#fff;
-	padding:50px 15px;
+	padding:10px 15px;
 	border-radius:2px;
 	margin-bottom:20px;
 	overflow:hidden;
 }
+.qiyeround-block {
+    background: #fff;
+    padding: 10px 15px 150px 15px;  /* 上 右 下 左 */
+    border-radius: 2px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
 .brief-title
 {
 	font-size:24px;
@@ -1730,6 +1738,10 @@ DIV.digg
     margin-top:22px;
     min-height:300px;
 }
+#btnShoucang {
+    font-size: 18px;  /* 增大字体大小 */
+    padding: 12px 24px;  /* 增大内边距 */
+}
 
 .btn{
    
@@ -1748,7 +1760,7 @@ DIV.digg
     font-size: 14px;
     text-align: center;
     border-radius: 2px;
-    border: 0;
+    border: 0px;
     user-select: none;
     padding:2px 22px;
     

@@ -4,10 +4,15 @@ Bootstrap Admin Template
 
 
 body {
-    background:#337ab7;
+    background-image: url('../images/background2.jpg'); /* 添加背景图片，确保替换为正确的文件路径 */
     color: #838383;
-    font: 13px/1.7em 'Open Sans';
+    font: 13px/1.7em 'Open Sans'; /* 保持现有字体样式不变 */
+    background-size: cover; /* 确保图片完全覆盖整个背景，保持宽高比 */
+    background-position:unset;
+    background-repeat: no-repeat; /* 避免背景图片重复 */
+    padding: 20px 10px;
 }
+
 
 .input {
     font-family: 'Open Sans';
@@ -30,7 +35,7 @@ body {
 }
 
     .center-container .login-container {
-        left: 50%;
+        left: 70%;
         top: 50%;
         margin-left: -190px;
         margin-top: -180px;

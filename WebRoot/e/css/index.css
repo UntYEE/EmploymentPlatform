@@ -114,11 +114,11 @@ ul li {
 
 .wrap {
     margin: 0 auto;
-    
+
     width: 1200px;
-    
+
     box-sizing:content-box;
-    
+
 }
 
 
@@ -164,7 +164,7 @@ ul li {
 
 .main-nav .menus li a:after {
     height: 3px;
-    background: #00aeff;
+    background: #0E9B99;
     position: absolute;
     left: 50%;
     right: 50%;
@@ -177,8 +177,8 @@ ul li {
 }
 .main-nav .menus li a.current, .main-nav .menus li a:hover {
     background-color: #f0f0f0;
-    border-bottom: 3px solid #188eee;
-    color: #1cb177;
+    border-bottom: 3px solid #0E9B99;
+    color: #1BC59A;
     height: 64px;
     line-height: 64px;
 }
@@ -209,13 +209,13 @@ ul li {
 .sidebar
 {
 	
-	border-color: #3c8dbc #DDDDDD #DDDDDD;
+	border-color: #1BB7B1 #DDDDDD #DDDDDD;
     border-style: solid;
     border-width: 3px 1px 1px;
 }
 .sidebar h3 {
     border-bottom: 1px solid #DADADA;
-    color: #3c8dbc;
+    color: #1BB7B1;
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -815,12 +815,12 @@ ul li {
 }
 
 .frendlink {
-    
+
     border-color: #DADADA;
     border-style: solid;
     border-width: 1px;
     color: #666666;
-   
+
     padding: 5px 15px;
     background:#fff;
 }
@@ -1431,9 +1431,9 @@ ul li {
     z-index: 999;
 }
 .search-box .keyword input {
-    border-bottom: 3px solid #04a219;
-    border-left: 3px solid #04a219;
-    border-top: 3px solid #04a219;
+    border-bottom: 3px solid #1BC59A;
+    border-left: 3px solid #1BC59A;
+    border-top: 3px solid #1BC59A;
     border-width: 3px 0 3px 3px;
     color: #033568;
     float: left;
@@ -1451,7 +1451,7 @@ ul li {
     width: 92px;
 }
 .sobtn {
-    background-color: #04a219;
+    background-color: #1BC59A;
     border-width: 0;
     color: #fff;
     cursor: pointer;

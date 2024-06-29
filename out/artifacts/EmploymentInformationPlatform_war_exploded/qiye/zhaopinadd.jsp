@@ -60,7 +60,7 @@
 			             }); 
 			          var imgtupiansrc="${requestScope.zhaopin.tupian}";
 				       if(imgtupiansrc==""){
-				         var url="${pageContext.request.contextPath}/upload/nopic.jpg";
+				         var url="${pageContext.request.contextPath}/upload/recruitment.jpg";
 				         $("#imgTupian").attr("src",url);
 				         $("#hidTupian").val(url);
 				       }else
