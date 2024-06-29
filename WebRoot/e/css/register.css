@@ -85,7 +85,7 @@
 	padding-right:0px;
     font-family:"Microsoft Yahei";
     clear: both;
-    font-size:14px;
+    font-size:20px;
     padding-top:8px;
 }
 .reg-content dt
@@ -93,6 +93,9 @@
 	width:150px;
 	display:block;
 	float:left;
+    font-size: 20px; /* 设置字体大小 */
+    font-weight: bold; /* 设置字体为加粗 */
+    font-family: Arial, sans-serif; /* 设置字体为Arial，如果找不到则回退到系统的无衬线字体 */
 	
 }
 .reg-content dd
@@ -164,7 +167,7 @@
 }
 .ui-form-item
 {
-	font-family: tahoma,arial,Microsoft YaHei,Hiragino Sans GB,����;
+	font-family: tahoma,arial,Microsoft YaHei,Hiragino Sans GB,����;
 	position:relative;
 	padding: 0 5px 20px 130px;
 }
@@ -197,12 +200,12 @@
 .ui-input {
     border: 1px solid #C1C1C1;
     color: #343434;
-    font-size: 12px;
-    height: 18px;
+    font-size: 20px;
+    height: 30px;
     line-height: 18px;
     padding: 6px;
     vertical-align: middle;
-    width: 170px;
+    width: 800px;
 }
 .ui-form-item .ui-input {
     color: #4D4D4D;

@@ -1765,7 +1765,23 @@ DIV.digg
     padding:2px 22px;
     
 }
+.registerbtn-default{
 
+
+    background-color: #188eee;
+    color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 2px;
+    border: 0;
+    user-select: none;
+    padding:5px 25px;
+    margin-left:35%;
+
+}
 
 .footer-page {
 	padding-top: 50px;

@@ -90,7 +90,7 @@
 				     <dl>
 						<dt></dt>
 						<dd>
-							<input type="submit" class="btn btn-default" id="btnReigster"
+							<input type="submit" class="btn btn-default registerbtn-default" id="btnReigster"
 								value="登录" name="btnReigster">
 						</dd>
 
