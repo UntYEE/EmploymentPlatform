@@ -1,15 +1,13 @@
 ## 简介
 
+> NKU软件工程团队编程作业：在线简历投递平台
+> 首页地址：http://localhost:8080/e/index.jsp
 > 
-> 用户端地址：http://localhost:8080/zhaopin/e/index.jsp
+> 管理后台地址：http://localhost:8080/admin/login.jsp
 > 
-> 用户：2019010401 123456
+> 管理员账号密码：admin 123456
 > 
-> 管理后台地址：http://localhost:8080/zhaopin/admin/login.jsp
-> 
-> 管理员：admin 123456
-> 
-> 企业：E001 123456
+> 企业HR账号密码：E001 123456
 >
 
 ## 项目介绍
@@ -18,11 +16,11 @@
 
 ## 环境
 
-- <b>IntelliJ IDEA 2021.3</b>
+- <b>IntelliJ IDEA 2024.1.2</b>
 
-- <b>Mysql 5.7.26</b>
+- <b>Mysql 8.4</b>
 
-- <b>Tomcat 7.0.73</b>
+- <b>Tomcat 8.5.100</b>
 
-- <b>JDK 1.8</b>
+
 
